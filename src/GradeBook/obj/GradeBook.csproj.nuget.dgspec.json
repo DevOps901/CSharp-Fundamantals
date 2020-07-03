@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\devin.azzie\\gradebook\\src\\GradeBook\\GradeBook.csproj": {}
+    "C:\\Users\\devin.azzie\\gradebook\\src\\Gradebook\\GradeBook.csproj": {}
   },
   "projects": {
-    "C:\\Users\\devin.azzie\\gradebook\\src\\GradeBook\\GradeBook.csproj": {
+    "C:\\Users\\devin.azzie\\gradebook\\src\\Gradebook\\GradeBook.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\devin.azzie\\gradebook\\src\\GradeBook\\GradeBook.csproj",
+        "projectUniqueName": "C:\\Users\\devin.azzie\\gradebook\\src\\Gradebook\\GradeBook.csproj",
         "projectName": "GradeBook",
-        "projectPath": "C:\\Users\\devin.azzie\\gradebook\\src\\GradeBook\\GradeBook.csproj",
+        "projectPath": "C:\\Users\\devin.azzie\\gradebook\\src\\Gradebook\\GradeBook.csproj",
         "packagesPath": "C:\\Users\\devin.azzie\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\devin.azzie\\gradebook\\src\\GradeBook\\obj\\",
+        "outputPath": "C:\\Users\\devin.azzie\\gradebook\\src\\Gradebook\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\devin.azzie\\AppData\\Roaming\\NuGet\\NuGet.Config",
